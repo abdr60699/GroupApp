@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871713417000",
+    "project_id": "grpgram-4c57d",
+    "storage_bucket": "grpgram-4c57d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871713417000:android:eaf3ff2612f6e15c1b921d",
+        "android_client_info": {
+          "package_name": "com.example.groups"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNmAuepZ5DG-8s3DyCE5n7QHmWn4DrcOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
